@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: java_micronaut
+  server:
+    port: 3000
+netty:
+  default:
+    allocator:
+      max-order: 3
